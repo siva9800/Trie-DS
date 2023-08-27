@@ -57,4 +57,6 @@ public:
         }
         return true;
     }
+
+    //we can use this class trie as class solution
 };
